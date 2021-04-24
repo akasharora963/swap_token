@@ -1,5 +1,5 @@
 # swap_token
-#### Add Infura API key and Metamask seed phrase
+#### Add Infura API key and Metamask seed phrase in tuffle-config.js
 ***
 #### For compiling and deploying smart contracts
 ```sh
